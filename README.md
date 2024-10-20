@@ -9,10 +9,10 @@
 <p>
   Escrito todo em C#, contém poucas funcionalidades nessa primeira release;
   Execute o shell script "Make.sh" para buildar o programa e executa-lo, ou manualmente:
-  '''
+  ```
 	mcs -out:seninha *.cs // Builda o consoleApp
 	mono seninha // Executa com o comando mono
-  '''
+  ```
 </p>
 
 <h2>TO DO</h2>
