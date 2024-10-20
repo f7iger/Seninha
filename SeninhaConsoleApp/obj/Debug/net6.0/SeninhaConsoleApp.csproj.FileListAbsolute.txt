@@ -1,0 +1,15 @@
+/home/alves/Build/Seninha_C-Sharp/SeninhaConsoleApp/bin/Debug/net6.0/SeninhaConsoleApp
+/home/alves/Build/Seninha_C-Sharp/SeninhaConsoleApp/bin/Debug/net6.0/SeninhaConsoleApp.deps.json
+/home/alves/Build/Seninha_C-Sharp/SeninhaConsoleApp/bin/Debug/net6.0/SeninhaConsoleApp.runtimeconfig.json
+/home/alves/Build/Seninha_C-Sharp/SeninhaConsoleApp/bin/Debug/net6.0/SeninhaConsoleApp.dll
+/home/alves/Build/Seninha_C-Sharp/SeninhaConsoleApp/bin/Debug/net6.0/SeninhaConsoleApp.pdb
+/home/alves/Build/Seninha_C-Sharp/SeninhaConsoleApp/obj/Debug/net6.0/SeninhaConsoleApp.csproj.AssemblyReference.cache
+/home/alves/Build/Seninha_C-Sharp/SeninhaConsoleApp/obj/Debug/net6.0/SeninhaConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/alves/Build/Seninha_C-Sharp/SeninhaConsoleApp/obj/Debug/net6.0/SeninhaConsoleApp.AssemblyInfoInputs.cache
+/home/alves/Build/Seninha_C-Sharp/SeninhaConsoleApp/obj/Debug/net6.0/SeninhaConsoleApp.AssemblyInfo.cs
+/home/alves/Build/Seninha_C-Sharp/SeninhaConsoleApp/obj/Debug/net6.0/SeninhaConsoleApp.csproj.CoreCompileInputs.cache
+/home/alves/Build/Seninha_C-Sharp/SeninhaConsoleApp/obj/Debug/net6.0/SeninhaConsoleApp.dll
+/home/alves/Build/Seninha_C-Sharp/SeninhaConsoleApp/obj/Debug/net6.0/refint/SeninhaConsoleApp.dll
+/home/alves/Build/Seninha_C-Sharp/SeninhaConsoleApp/obj/Debug/net6.0/SeninhaConsoleApp.pdb
+/home/alves/Build/Seninha_C-Sharp/SeninhaConsoleApp/obj/Debug/net6.0/SeninhaConsoleApp.genruntimeconfig.cache
+/home/alves/Build/Seninha_C-Sharp/SeninhaConsoleApp/obj/Debug/net6.0/ref/SeninhaConsoleApp.dll
