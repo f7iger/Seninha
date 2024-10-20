@@ -10,11 +10,8 @@
   Escrito todo em C#, contém poucas funcionalidades nessa primeira release;
   Execute o shell script "Make.sh" para buildar o programa e executa-lo, ou manualmente:
 </p>
-  ```
-	mcs -out:seninha *.cs // Builda o consoleApp
-	mono seninha // Executa com o comando mono
-  ```
-
+<code> mcs -out:seninha *.cs // Builda o consoleApp
+mono seninha // Executa com o comando mono </code>
 
 <h2>TO DO</h2>
 - Inserir os valores do prêmio relacionado com a quantidade de dinheiro apostada e quantidade de números escolhidos
